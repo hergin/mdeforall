@@ -6,4 +6,5 @@ Details are coming but if you are interested in the topic, reach us by email: he
 ## First Apperance at MODELS Conference 2020
 
 Below is a the video recording of our vision paper about the topic:
+
 [![Presentation](http://img.youtube.com/vi/orb2BIS2u5I/0.jpg)](http://www.youtube.com/watch?v=orb2BIS2u5I "MODELS 2020 Talk for the MDEforALL")
