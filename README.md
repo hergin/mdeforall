@@ -9,6 +9,10 @@ We have been funded for $15,000 by Ball State University to create the first pro
 
 ## First Apperance at MODELS Conference 2020
 
-Below is a the video recording of our vision paper about the topic:
+Below is a the video recording of our vision paper about the topic.
 
 [![Presentation](http://img.youtube.com/vi/orb2BIS2u5I/0.jpg)](http://www.youtube.com/watch?v=orb2BIS2u5I "MODELS 2020 Talk for the MDEforALL")
+
+## Vision Paper is accepted at MODELS Conference
+
+You can check the paper [here](https://dl.acm.org/doi/10.1145/3365438.3410959).
