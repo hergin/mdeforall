@@ -1,5 +1,6 @@
 title: MDEforALL
 theme: jekyll-theme-architect
 show_downloads: false
+logo: mdeforall-logo.png
 github:
   is_project_page: false
