@@ -1,4 +1,3 @@
-![](mdeforall-logo.png)
 # MDEforALL
 
 Details are coming but if you are interested in the topic, reach us by email: hergin@bsu.edu
