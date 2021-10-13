@@ -1,6 +1,6 @@
 ![](mdeforall-logo.png)
 
-We are creating a model-driven clone of classic maze (block-based environments in general) for 1) marketing model driven engineering concepts in CS education community, 2) provide an alternative teaching paradigm for CS concepts. The current prototype can be found at [https://github.com/mdeforall/atompm](https://github.com/mdeforall/atompm). More details are coming but if you are interested in the topic, reach us by email: hergin@bsu.edu
+We are creating a model-driven clone of classic maze (block-based environments in general) for 1) marketing model-driven engineering concepts in CS education community, 2) provide an alternative teaching paradigm for CS concepts. The current prototype can be found at [https://github.com/mdeforall/atompm](https://github.com/mdeforall/atompm). More details are coming but if you are interested in the topic, reach us by email: hergin@bsu.edu
 
 ## Current Status
 
