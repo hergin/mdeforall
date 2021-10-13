@@ -1,11 +1,9 @@
 ![](mdeforall-logo.png)
-# MDEforALL
-
-Details are coming but if you are interested in the topic, reach us by email: hergin@bsu.edu
+We are creating a model-driven clone of classic maze (block-based environments in general) for 1) marketing model driven engineering concepts in CS education community, 2) provide an alternative teaching paradigm for CS concepts. The current prototype can be found at [https://github.com/mdeforall/atompm](https://github.com/mdeforall/atompm). More details are coming but if you are interested in the topic, reach us by email: hergin@bsu.edu
 
 ## Current Status
 
-We have been funded for $15,000 by Ball State University to create the first prototype and do the initial user study. Currently, we are working on it.
+We have been funded for $15,000 by Ball State University to create the first prototype and do the initial user study. The IRB approved study is to be conducted in October/November. Currently, we are working on it.
 
 ## First Apperance at MODELS Conference 2020
 
